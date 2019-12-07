@@ -1,11 +1,11 @@
 # Thogu
 
-Toku is an python application which coverts the  given image to a potrait and Color splash.
-Toku means Edit in Tamil(தொகு).
+Thogu is an python application which coverts the  given image to a potrait and Color splash.
+Thogu means Edit in Tamil(தொகு).
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to Run Toku.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to Run Thogu.
 
 ```bash
 pip install requirements.txt
@@ -32,7 +32,7 @@ Then the grap is cut or segmented into two.After the segmentation, the pixels th
 ![python](https://www.freepngimg.com/thumb/python_logo/5-2-python-logo-png-image-thumb.png)
 
 # Sample
-This an Example on this Toku.
+This an Example on this Thogu.
 ![Example](https://i.imgur.com/50pWHOx.jpg)
 
 ```
