@@ -1,4 +1,4 @@
-# Toku
+# Thogu
 
 Toku is an python application which coverts the  given image to a potrait and Color splash.
 Toku means Edit in Tamil(தொகு).
